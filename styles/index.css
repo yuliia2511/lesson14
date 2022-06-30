@@ -161,4 +161,8 @@ body {
     padding-bottom: 40px;
 }
 
+.photo:hover {
+    border: 3px solid rgba(24, 181, 220, 1);
+}
+
 
